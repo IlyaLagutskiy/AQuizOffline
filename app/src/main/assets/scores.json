@@ -1,0 +1,8 @@
+{
+  "data_type": "scores",
+  "users_count": 2,
+  "users": {
+    "ilya": 200,
+    "polina": 0
+  }
+}

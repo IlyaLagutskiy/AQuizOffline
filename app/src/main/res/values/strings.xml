@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A.Quiz Offline</string>
+    <string name="Play">Play</string>
+    <string name="Score">Score</string>
+    <string name="Level">Difficulty level</string>
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Hard">Hard</string>
+</resources>
